@@ -8,4 +8,5 @@ Use your dashboard to answer the questions the managers asked you:
 Analysing trending videos on YouTube to determine what content deserves marketing attention.
 
 ## Techniques used
-1. Tableau
+1. [Tableau]([https://www.google.com](https://public.tableau.com/app/profile/ahmad.zamani.mat.zin/viz/TrendingVideosonYouTube_16820105721160/Dashboard1?publish=yes)
+
